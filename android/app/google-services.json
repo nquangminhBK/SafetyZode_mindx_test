@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649313222000",
+    "project_id": "safetyzone-bcc80",
+    "storage_bucket": "safetyzone-bcc80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649313222000:android:bc6edf8f4e0f7a37fba3b5",
+        "android_client_info": {
+          "package_name": "com.example.safety_zone_mindx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649313222000-g9qhshuh1tcsa22tq9tbg54k30jub4mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safety_zone_mindx",
+            "certificate_hash": "64ab2a88e898fe45a1c3671cdb7d56c6387e8efe"
+          }
+        },
+        {
+          "client_id": "649313222000-c8mcquufmri835u8cr4bet9u94n8lgc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqoNpNIgvwV07u9azzToxnhM4XeJwlc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649313222000-c8mcquufmri835u8cr4bet9u94n8lgc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
